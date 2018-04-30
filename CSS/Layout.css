@@ -1,0 +1,64 @@
+body {
+	margin:0;
+	padding:0;
+}
+#Holder {
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:21px;
+	margin-top:21px;
+}
+#Header {
+	height:200px;
+	background-image:url(../Classic-Talk-1-300x200.jpg);
+	background-repeat:;
+	margin-bottom:11px;
+}
+#Navbar {
+	height:60px;
+	background-color:rgb(13, 13, 13)
+}
+#content {
+	height:auto;
+	clear:both;
+	overflow:auto;
+}
+#Pageheading {
+	height:auto;
+	padding:11px;
+}
+#Contentright {
+	width:650px;
+	float:right;
+}
+#Contentleft {
+	width:280px;
+	float:left;
+	padding-right:11px;
+	padding-left:11px;
+}
+#Footer {
+	height:100px;
+}
+h1 {
+	margin:0;
+	color:#666;
+	font-size:61px
+}
+h2 {
+	margin: 0;
+	color: #999;
+	font-size: x-large;
+}
+h6 {
+	margin:0;
+	color:#333;
+}
+.StyleTxtField {
+	border:1px solid #666;
+	border-radius:6px;
+	width:200px;
+	height:25px;
+}
